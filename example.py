@@ -4,10 +4,10 @@
 from instabot_py import InstaBot
 
 bot = InstaBot(
-    login="username",  # Enter username (lowercase). Do not enter email!
-    password="password",
+    login="heylonewolf2019",  # Enter username (lowercase). Do not enter email!
+    password="qwerty123456",
     like_per_day=1000,
-    comments_per_day=0,
+    comments_per_day=100,
     tag_list=["follow4follow", "f4f", "cute", "l:212999109"],
     tag_blacklist=["rain", "thunderstorm"],
     user_blacklist={},
